@@ -1,7 +1,6 @@
 {
     "version":  "1.1.0",
     "license":  "GPL3",
-    "extract_dir":  "ani-dl-main",
     "url":  "https://github.com/B0SEmc/ani-dl/releases/download/1.1.0/ani-dl_1.1.0_x86_64-pc-windows-gnu.zip",
     "depends":  "",
     "homepage":  "https://github.com/B0SEmc/ani-dl",
