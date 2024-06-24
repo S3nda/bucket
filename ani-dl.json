@@ -1,7 +1,7 @@
 {
-    "version":  "1.4.0",
+    "version":  "1.4.1",
     "license":  "GPL3",
-    "url":  "https://github.com/B0SEmc/ani-dl/releases/download/1.4.0/ani-dl_1.4.0_x86_64-pc-windows-gnu.zip",
+    "url":  "https://github.com/B0SEmc/ani-dl/releases/download/1.4.1/ani-dl_1.4.1_x86_64-pc-windows-gnu.zip",
     "depends": ["mpv","yt-dlp"],
     "homepage":  "https://github.com/B0SEmc/ani-dl",
     "bin":  "ani-dl.exe"
